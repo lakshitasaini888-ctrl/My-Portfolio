@@ -10,6 +10,7 @@
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Structure](#structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -42,7 +43,24 @@ This portfolio website showcases my **skills, education, services, projects, and
 - Google Sheets API (for contact form integration)  
 
 ---
-## Installation
+## Structure
+my-portfolio/
+│
+├─ index.html
+├─ style.css
+├─ script.js       
+├─ images/
+│   ├─ namelogo.png
+│   ├─ IMG.jpg
+│   ├─ work-1.jpg
+│   ├─ work-2.jpg
+│   ├─ twitterimg.jpg
+│   ├─ githubimg.jpg
+│   ├─ linkedinimg.jpg
+│   └─ My-CV.pdf
+└─ README.md      
+
+
 ## Installation
   Clone this repository:  
  ```bash
