@@ -11,6 +11,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Structure](#structure)
+- [How To View](#howtoview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -59,6 +60,16 @@ my-portfolio/
 │   ├─ linkedinimg.jpg
 │   └─ My-CV.pdf
 └─ README.md      
+
+
+---
+
+## 🚀 How to View
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/lakshitasaini888-ctrl/My-Portfolio.git
+cd My-Portfolio
 
 
 ## Installation
